@@ -1,12 +1,12 @@
 # Hey there, I'm Fabian!
-I'm a student, and a developer! I've been learning Python for a few months, and I'm pretty decent at it (hopefully). I also know a bit of HTML and Java
+I'm a student, and a developer! I've been learning Python and C++. I also know a bit of HTML and Java
 
 ## Status
-I'm currently Learning **Python**, and **Studying**. 
+I'm currently Learning **Python**, **C++** and **Studying**. 
 
 ## Socials
-[<img align="left" alt="izzy#2859 | discord" src="https://img.icons8.com/clouds/48/000000/discord-logo.png"/>](https://discord.com/users/589952622820196402)
-[<img align="left" alt="izzywq | twitter" src="https://img.icons8.com/cotton/48/000000/twitter.png">](https://twitter.com/ftn_fabian)
+[<img align="left" alt="fabian1#5466| discord" src="https://img.icons8.com/clouds/48/000000/discord-logo.png"/>](https://discord.com/users/589952622820196402)
+[<img align="left" alt="fabian_ftn | twitter" src="https://img.icons8.com/cotton/48/000000/twitter.png">](https://twitter.com/ftn_fabian)
 <br>
 <br>
 ## Github Stats
