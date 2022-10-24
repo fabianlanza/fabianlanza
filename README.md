@@ -1,5 +1,5 @@
 # Hey there, I'm Fabian!
-I'm a student, and a developer! I've been learning Python and C++. I also know a bit of HTML and Java
+I'm a student, and a developer! I've been learning Python, C++, and C#. I also know a bit of HTML and Java
 
 ## Status
 I'm currently Learning **Python**, **C++** and **Studying**. 
