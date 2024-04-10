@@ -1,5 +1,5 @@
 # Hey there, I'm Fabian!
-I'm a student, and a developer! I know Python, C++, C#, Visual Basic and Java.
+I'm a student, and a developer! I know Python, C++, C#, Visual Basic, Java and PHP.
 
 ## Status
 I'm currently Learning **Python**, **C++**, **C#** and **Studying**. 
