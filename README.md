@@ -38,10 +38,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.defense.gov/2021/Sep/29/2002863777/1200/1200/0/200629-F-GZ700-9011.JPG"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabianlanza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabianlanza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
